@@ -1,4 +1,4 @@
-//Nick Scalzi (4558771)
+//Nick Scalzi
 
 #ifndef POLYNOMIAL_H_INCLUDED
 #define POLYNOMIAL_H_INCLUDED
