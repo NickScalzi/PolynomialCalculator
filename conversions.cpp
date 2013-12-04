@@ -1,4 +1,4 @@
-//Nick Scalzi (4558771)
+//Nick Scalzi
 
 #include "conversions.h"
 #include <sstream>
