@@ -1,4 +1,4 @@
-//Nick Scalzi (4558771)
+//Nick Scalzi
 
 #ifndef CONVERSIONS_H_INCLUDED
 #define CONVERSIONS_H_INCLUDED
